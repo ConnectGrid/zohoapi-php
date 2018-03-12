@@ -1,12 +1,12 @@
 {
-    "name": "connectgrid/zohoapi-sdk",
+    "name": "connectgrid/zohoapi-php",
     "type": "library",
     "description": "Zoho API v2 SDK",
     "keywords": [
         "connectgrid",
         "zohoapi-sdk"
     ],
-    "homepage": "https://github.com/connectgrid/zohoapi-sdk",
+    "homepage": "https://github.com/connectgrid/zohoapi-php",
     "license": "MIT",
     "authors": [
         {
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "connectgrid\\zohoapi-sdk\\": "src"
+            "connectgrid\\zohoapi-php\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "connectgrid\\zohoapi-sdk\\": "tests"
+            "connectgrid\\zohoapi-php\\": "tests"
         }
     },
     "scripts": {
